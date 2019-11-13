@@ -1,0 +1,12 @@
+@media (max-width: 767px) {	
+
+.pull-left, .pull-right{
+	float: none!important;
+	text-align: center!important;
+	display: block!important;
+	margin-left: auto!important;
+	margin-right: auto!important;
+	margin-top: 15px;
+}
+
+}
